@@ -26,7 +26,7 @@ class Result : AppCompatActivity() {
         }else if(result > 18.5f && result <= 24.9f){
             "NORMAL"
         }else if(result > 25f && result <= 29.9f){
-            "SOBRE PESO"
+            "SOBREPESO"
         }else if(result > 30f && result <= 39.9){
             "OBESIDADE"
         }else{
